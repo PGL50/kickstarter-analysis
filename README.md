@@ -1,11 +1,12 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-   1.
 
-### Purpose
+### This project had two purposes: 1. To gain more experience with Excel and 2. To analyse the Kickstarter data to give ficticious Louise some insight for her play based on the launch data and funding goals. The analyses looked specifically at the Theater parent category and the plays sub-category.
 
 ## Analysis and Challenges
+
+### The first part of the analysis was looking at the number of outcomes vs the launch month. Live outcomes were excluded. The data were summarized in a pivot table to Filter for Theater outcomes only. From the pivot table, a line chart was created to look at the relationship of the number of the 3 outcomes by their launch date.
 
 ### Analysis of Outcomes Based on Launch Date
    ![OutcomeMonths](./resources/Theater_Outcomes_vs_Launch.png)
