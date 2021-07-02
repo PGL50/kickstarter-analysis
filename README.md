@@ -24,6 +24,7 @@
 
 - What can you conclude about the Outcomes based on Goals?
 1. The percentage of successful outcomes for plays goes down (from ~80% to 20%) as the goal goes up until a blip at 35,000 to 44,999. At thost goals the percent succesful jumps up to almost 70%.
+2. There were no canceled plays at any goal level.
 
 - What are some limitations of this dataset?
 
