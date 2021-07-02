@@ -31,8 +31,7 @@
 2. There were no canceled plays at any goal level.
 
 ### Limitations of this dataset
-####  The data set is pretty well organized with no missing cells. Going forward with these data, I would have to be especially careful summarizing the monetary data across different countries without accounting for differenct currencies. When lookng at the Percentage of Outcomes Based on Goals, it would be good to take the numbers (numerator and denominator) into account. Percentages based on small numbers can change fairly drastically with the addition or substraction of a few numbers. 
+####  The data set is pretty well organized with no missing cells. Going forward with these data, I would have to be especially careful summarizing the monetary data across different countries without accounting for different currencies. When looking at the Percentage of Outcomes Based on Goals, it would be good to take the numbers (numerator and denominator) into account. Percentages based on small numbers can change fairly drastically with the addition or substraction of a few numbers. 
 
 ####  There is a plethora of other analyses to look at these data. The analyses based on launch data could look over all years. The seasonality may not be the same for each year. Another table and chart could look at days from launch to end vs # of successes. The average donation may also have a relations ship with outcome. 
 
-### Other possible tables and/or graphs
