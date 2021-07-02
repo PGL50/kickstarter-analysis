@@ -9,6 +9,7 @@
 ### The first part of the analysis was looking at the number of outcomes vs the launch month. Live outcomes were excluded. The data were summarized in a pivot table to filter for Theater outcomes only. From the pivot table, a line chart was created to look at the relationship of the number of the three outcomes by their launch date.
 
 ### Analysis of Outcomes Based on Launch Date
+####  There is a peak of successful campaigns in the months of May-July. After that the number of succesful outcomes has a declining trend into December. Failed ooutcomes also peak in the months of May-August, around 50 per month. The number of canceled outcomes does not seem to have any relationship to the month in which it was launched.
    ![OutcomeMonths](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
