@@ -6,7 +6,7 @@
 
 ## Analysis and Challenges
 
-### The first part of the analysis was looking at the number of outcomes vs the launch month. Live outcomes were excluded. The data were summarized in a pivot table to Filter for Theater outcomes only. From the pivot table, a line chart was created to look at the relationship of the number of the 3 outcomes by their launch date.
+### The first part of the analysis was looking at the number of outcomes vs the launch month. Live outcomes were excluded. The data were summarized in a pivot table to filter for Theater outcomes only. From the pivot table, a line chart was created to look at the relationship of the number of the three outcomes by their launch date.
 
 ### Analysis of Outcomes Based on Launch Date
    ![OutcomeMonths](./resources/Theater_Outcomes_vs_Launch.png)
