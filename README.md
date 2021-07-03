@@ -17,7 +17,7 @@
    ![OutcomesGoals](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-####  My initial challenges were related to the GitHub and GitLab environments. I'm getting better with those as the class office hours introduce more features and then practice, practice, practice. I didn't have many challenges with the analyses. The instructionas are very detailed for the module and challange so it's easy to miss small details. When doing the COUNTIFS() calculations, I had to redo it a couple of times to get the exact endpoints for the groups (ie < or <=). It took a bit of Googling and testing to figure out how to insert an image file into the README. There is also a bit of a challenge editing in Markdown without a spellchecker. I have to constantly edit the file looking for misspelled words since they are not highlighted. 
+####  My initial challenges were related to the GitHub and GitLab environments. I'm getting better with those as the class office hours introduce more features and then practice, practice, practice. I didn't have many challenges with the analyses. The instructionas are very detailed for the module and challenge so it's easy to miss small details. When doing the COUNTIFS() calculations, I had to redo it a couple of times to get the exact endpoints for the groups (ie < or <=). It took a bit of Googling and testing to figure out how to insert an image file into the README. There is also a bit of a challenge editing in Markdown without a spellchecker. I have to constantly edit the file looking for misspelled words since they are not highlighted. 
 
 ## Results
 
