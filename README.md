@@ -23,8 +23,8 @@
 
 ### Conclusions about the Outcomes based on Launch Date
 1. The number of succesful Theater outcomes is higher in the Launch months of May, June, and July (highest in May). 
-1. From May to December there is a pretty strong negative trend where number of sucessful outcomes goes down.
-1. The number of canceled outcomes doesn't seem to matter which month they were launched.
+1. From May to December there is a pretty strong negative trend where number of successful outcomes goes down.
+1. The number of canceled outcomes doesn't seem to matter which month in which they were launched.
 
 ### Conclusions about the Outcomes based on Goals
 1. The percentage of successful outcomes for plays goes down (from ~80% to 20%) as the goal goes up until a blip at 35,000 to 44,999. At those goals the percent successful jumps up to almost 70%.
