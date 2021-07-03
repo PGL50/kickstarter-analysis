@@ -13,7 +13,7 @@
    ![OutcomeMonths](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-####  The percent of seccessful outcomes start out relatively high (~80%) with the lowest goal category. As the the amount of the goal increases the success percentage goes down. There are a couple of categories (35,000-45,000) where the success jumps up to almost 70%. Louise's play had a goal of $2,885 where there is a 73% success rate. Based on the chart below, "Fever" should have had a good chance of success.
+####  The percent of successful outcomes start out relatively high (~80%) with the lowest goal category. As the the amount of the goal increases the success percentage goes down. There are a couple of categories (35,000-45,000) where the success jumps up to almost 70%. Louise's play had a goal of $2,885 where there is a 73% success rate. Based on the chart below, "Fever" should have had a good chance of success.
    ![OutcomesGoals](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
